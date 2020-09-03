@@ -1,6 +1,6 @@
 # blackboard-firebase-storage
 
-Send upload file firebase-storage from Node.js – easy as Peeled bananas! 🍌✉️
+Send upload file firebase-storage from Node.js – easy as Peeled bananas! 🍌  ⬆️ 🗄
 
 [![npm version](https://badge.fury.io/js/blackboard-firebase-storage.svg)](https://badge.fury.io/js/blackboard-firebase-storage)
 
